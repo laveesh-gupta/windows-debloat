@@ -3,7 +3,7 @@
  This is a very powerful script/application/utility to debloat a new Windows installation.  
 ```  
 ## How To Run the Windows10Debloater.ps1 and the Windows10DebloaterGUI.ps1 files
-
+```
 There are different methods of running the PowerShell script. The methods are as follows:
 
 First Method:
@@ -25,3 +25,4 @@ Second Method:
 3) This will allow the script to run without having to do the above steps but Powershell will ask if you're sure you want to run this script.
 
 Remember this script NEEDS to be run as admin in order to function properly.
+```
