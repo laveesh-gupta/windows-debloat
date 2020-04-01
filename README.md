@@ -1,6 +1,7 @@
 # windows-debloat
+```
  This is a very powerful script/application/utility to debloat a new Windows installation.  
-  
+```  
 ## How To Run the Windows10Debloater.ps1 and the Windows10DebloaterGUI.ps1 files
 
 There are different methods of running the PowerShell script. The methods are as follows:
