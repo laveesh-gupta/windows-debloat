@@ -1,6 +1,6 @@
 # windows-debloat
 ```
- This is a very powerful script/application/utility to debloat a new Windows installation.  
+ These are some powerful scripts/applications/utilities to debloat a new Windows installation.  
 ```  
 ## How To Run the Windows10Debloater.ps1 and the Windows10DebloaterGUI.ps1 files
 ```
